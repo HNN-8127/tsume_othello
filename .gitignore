@@ -5,6 +5,7 @@ edax.dat
 problem_cache.dat
 save*.dat
 *.ogg
+*.lnk
 
 
 #  MSVC
